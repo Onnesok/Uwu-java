@@ -15,7 +15,7 @@ public class main {
         String text = "Hello";
 
         System.out.println(letter);
-        System.out.println("50 + 10 is "+ 50 + 10);  // didnt work
+        System.out.println("50 + 10 is "+ 50 + 10 );  // didnt work
         System.out.println("50 + 10 is "+ (50 + 10));  // worked
         System.out.println("For float number "+ (float_num+float_num));  // worked
     }
