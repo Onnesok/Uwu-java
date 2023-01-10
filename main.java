@@ -15,8 +15,13 @@ public class main {
         String text = "Hello";
 
         System.out.println(letter);
-        System.out.println("50 + 10 is "+ 50 + 10 );  // didnt work
-        System.out.println("50 + 10 is "+ (50 + 10));  // worked
-        System.out.println("For float number "+ (float_num+float_num));  // worked
+        System.out.println("50 + 10 is " + 50 + 10); // didnt work
+        System.out.println("50 + 10 is " + (50 + 10)); // worked
+        System.out.println("For float number " + (float_num + float_num)); // worked
+        System.out.println("Length of string is : " + text.length() + "\nAll Upper case: " + text.toUpperCase()
+                + "\nAll lower case: " + text.toLowerCase());
+
+        String txt = "Please locate where 'locate' occurs!";
+        System.out.println("Located in index: "+txt.indexOf("locate")); // Outputs 7
     }
 }
