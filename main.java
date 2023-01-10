@@ -26,3 +26,4 @@ public class main {
     }
 }
 //Uwu java tumi ki  bari jaba ?
+ 
