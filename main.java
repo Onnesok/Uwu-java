@@ -25,3 +25,4 @@ public class main {
         System.out.println("Located in index: "+txt.indexOf("locate")); // Outputs 7
     }
 }
+//Uwu java tumi ki  bari jaba ?
